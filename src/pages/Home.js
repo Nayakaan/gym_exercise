@@ -22,6 +22,7 @@ const Home = () => {
         exercises={exercises}
         setExercises={setExercises}
         bodyPart={bodyPart}
+
       />
     </Box>
   )
